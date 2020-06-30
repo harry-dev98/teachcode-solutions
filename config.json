@@ -1,14 +1,16 @@
 {
   "learningTrack": "Python",
   "userName": "harry-dev98",
-  "taskCount": 2,
+  "taskCount": 3,
   "keys": [
     "5e06b81de9ac43218a974785ffce8146",
     "6okwwehmwwos1yqeiia2zdqlwwezqfwpqo6q",
-    "q2226rhejijt6avybhe8q5jdwwsuvwlmkrko"
+    "q2226rhejijt6avybhe8q5jdwwsuvwlmkrko",
+    "7iebhksq2wlsrbb2rt8on9lqagrievcwu6r4"
   ],
   "userSubmittedFiles": [
     "task1.py",
-    "task2.py"
+    "task2.py",
+    "task3.py"
   ]
 }
