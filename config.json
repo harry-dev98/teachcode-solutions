@@ -1,7 +1,7 @@
 {
   "learningTrack": "Python",
   "userName": "harry-dev98",
-  "taskCount": 7,
+  "taskCount": 8,
   "keys": [
     "5e06b81de9ac43218a974785ffce8146",
     "6okwwehmwwos1yqeiia2zdqlwwezqfwpqo6q",
@@ -10,7 +10,8 @@
     "isk2lugx9bte5dn13ue8gw7hvqfty3nd2fmu",
     "e5vkhc7peohe195pd4md8sied1p1rbkiy185",
     "ove2mtga6wstpod7hldmncqny2fxppecj7yc",
-    "e62mdzo1655octea9y4z2mynm5wkc8cyx31y"
+    "e62mdzo1655octea9y4z2mynm5wkc8cyx31y",
+    "9dkiae1to1pcehkfmzwom671xh816c1gxlvn"
   ],
   "userSubmittedFiles": [
     "task1.py",
@@ -19,6 +20,7 @@
     "task4.py",
     "task5.py",
     "task6.py",
-    "task7.py"
+    "task7.py",
+    "task8.py"
   ]
 }
